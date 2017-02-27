@@ -4,7 +4,7 @@
 
 Hi Rubo 
 ======
-I'm **making _some_ ** edits to get its ** done **  and ~~understand~~
+I'm **making _some_** edits to get its **done**  and ~~understand~~
 
 
 1. First ordered list item
